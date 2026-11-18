@@ -2,10 +2,10 @@
 //CtB New Areas Table
 SHORT_NAME  CONTENT  LONG_NAME  FLAGS  BAM_ANIM  X_POS  Y_POS  NAME         TOOLTIP      LOAD_IM
 
-CBbgrd		CBbgrd	 CBbgrd		9	   192	   0	3489   N			N			 N		  //Background for Hlondeth
-AR3611      AR3611   AR3611     5      193     215    3380   @CTB_778012  @CTB_778112  N        //East Hlondeth
-AR3610      AR3610   AR3610     5      194     135    3320   @CTB_778002  @CTB_778102  N        //Central Hlondeth
-AR3613      AR3613   AR3613     5      195      55    3380   @CTB_778013  @CTB_778113  N        //West Hlondeth
+CBbgrd		CBbgrd	 CBbgrd		9	   new#0	   0	3489   N			N			 N		  //Background for Hlondeth
+AR3611      AR3611   AR3611     5      new#1     215    3380   @CTB_778012  @CTB_778112  N        //East Hlondeth
+AR3610      AR3610   AR3610     5      new#2     135    3320   @CTB_778002  @CTB_778102  N        //Central Hlondeth
+AR3613      AR3613   AR3613     5      new#3      55    3380   @CTB_778013  @CTB_778113  N        //West Hlondeth
 AR3520      AR3520   AR3520     4      17       1400    1155   @CTB_778103  @CTB_778103  N        //Stormhorns
 AR3534      AR3534   AR3534     4      98       1488    2960   @CTB_778004  @CTB_778104  N        //Snowflake Mountains
 AR3540      AR3540   AR3540     4      10       1422    3028   @CTB_778005  @CTB_778105  N        //Academy of Kuldin
